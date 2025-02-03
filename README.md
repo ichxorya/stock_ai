@@ -89,7 +89,7 @@ Note: Accuracy varies based on market conditions, volatility, and the specific s
 
 ### Prerequisites
 ```bash
-pip install streamlit pandas numpy matplotlib sklearn xgboost tensorflow yfinance newsapi-python statsmodels
+pip install streamlit pandas numpy matplotlib sklearn xgboost tensorflow yfinance newsapi-python statsmodels vnstock
 ```
 
 
